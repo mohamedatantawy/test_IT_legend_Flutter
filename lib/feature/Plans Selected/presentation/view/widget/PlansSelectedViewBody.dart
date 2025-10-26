@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:it_test/feature/AllProducts/presentation/manager/cubit/detail_card_cubit.dart';
-import 'package:it_test/feature/AllProducts/presentation/view/widget/ContactWithSupport.dart';
-import 'package:it_test/feature/AllProducts/presentation/view/widget/CustomCard.dart';
+import 'package:it_test/feature/Plans%20Selected/presentation/manager/cubit/detail_card_cubit.dart';
+import 'package:it_test/feature/Plans%20Selected/presentation/view/widget/ContactWithSupport.dart';
+import 'package:it_test/feature/Plans%20Selected/presentation/view/widget/CustomCard.dart';
 import 'package:it_test/feature/Filtering/presentation/view/widget/customElevatedbutton.dart';
 
-class Allproductviewbody extends StatelessWidget {
-  const Allproductviewbody({super.key});
+class PlansSelectedViewBody extends StatelessWidget {
+  const PlansSelectedViewBody({super.key});
 
   @override
   Widget build(BuildContext context) {

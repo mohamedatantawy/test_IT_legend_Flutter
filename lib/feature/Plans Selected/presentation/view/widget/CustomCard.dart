@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:it_test/core/utils/constant.dart';
-import 'package:it_test/feature/AllProducts/data/models/detailCardmodel.dart';
-import 'package:it_test/feature/AllProducts/presentation/view/widget/CustomDetailFromCard.dart';
-import 'package:it_test/feature/AllProducts/presentation/view/widget/customTitleCard.dart';
+import 'package:it_test/feature/Plans%20Selected/data/models/detailCardmodel.dart';
+import 'package:it_test/feature/Plans%20Selected/presentation/view/widget/CustomDetailFromCard.dart';
+import 'package:it_test/feature/Plans%20Selected/presentation/view/widget/customTitleCard.dart';
 
 class CustomCard extends StatelessWidget {
   const CustomCard({super.key, required this.detailcardmodel});

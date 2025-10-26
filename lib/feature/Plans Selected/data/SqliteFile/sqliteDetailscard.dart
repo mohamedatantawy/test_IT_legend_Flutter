@@ -1,6 +1,6 @@
 import 'dart:async';
-import 'package:it_test/feature/AllProducts/data/models/detailCardmodel.dart';
-import 'package:it_test/feature/AllProducts/data/models/titleCardmodel.dart';
+import 'package:it_test/feature/Plans%20Selected/data/models/detailCardmodel.dart';
+import 'package:it_test/feature/Plans%20Selected/data/models/titleCardmodel.dart';
 import 'package:sqflite/sqflite.dart';
 import 'package:path/path.dart';
 

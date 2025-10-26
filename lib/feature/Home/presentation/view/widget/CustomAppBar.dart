@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:it_test/core/utils/constant.dart';
 import 'package:it_test/core/utils/textstyles.dart';
-import 'package:it_test/feature/AllProducts/presentation/view/AllproductView.dart';
 import 'package:it_test/feature/Filtering/presentation/view/FilteringView.dart';
 
 class Customappbar extends StatelessWidget {

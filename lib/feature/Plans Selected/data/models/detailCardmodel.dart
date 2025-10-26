@@ -1,4 +1,4 @@
-import 'package:it_test/feature/AllProducts/data/models/titleCardmodel.dart';
+import 'package:it_test/feature/Plans%20Selected/data/models/titleCardmodel.dart';
 
 class Detailcardmodel {
   final int? id;

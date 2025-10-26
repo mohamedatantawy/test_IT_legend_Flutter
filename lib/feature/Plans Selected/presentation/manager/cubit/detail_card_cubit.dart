@@ -1,8 +1,8 @@
 import 'package:bloc/bloc.dart';
 import 'package:flutter/material.dart';
-import 'package:it_test/feature/AllProducts/data/SqliteFile/sqliteDetailscard.dart';
-import 'package:it_test/feature/AllProducts/data/models/detailCardmodel.dart';
-import 'package:it_test/feature/AllProducts/data/models/titleCardmodel.dart';
+import 'package:it_test/feature/Plans%20Selected/data/SqliteFile/sqliteDetailscard.dart';
+import 'package:it_test/feature/Plans%20Selected/data/models/detailCardmodel.dart';
+import 'package:it_test/feature/Plans%20Selected/data/models/titleCardmodel.dart';
 import 'package:meta/meta.dart';
 
 part 'detail_card_state.dart';

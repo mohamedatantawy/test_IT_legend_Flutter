@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:it_test/feature/AllProducts/presentation/manager/cubit/detail_card_cubit.dart';
+import 'package:it_test/feature/Plans%20Selected/presentation/manager/cubit/detail_card_cubit.dart';
 import 'package:it_test/feature/Filtering/data/models/filteringmodel.dart';
 import 'package:it_test/feature/Filtering/presentation/manager/cubit/filtercubit_cubit.dart';
 import 'package:it_test/feature/Home/presentation/manager/cubit/product_cubit.dart';

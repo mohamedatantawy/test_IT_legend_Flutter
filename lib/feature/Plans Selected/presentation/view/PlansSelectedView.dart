@@ -1,18 +1,17 @@
 import 'package:flutter/material.dart';
 import 'package:it_test/core/utils/constant.dart';
 import 'package:it_test/core/utils/textstyles.dart';
-import 'package:it_test/feature/AllProducts/presentation/view/widget/AllproductViewBody.dart';
+import 'package:it_test/feature/Plans%20Selected/presentation/view/widget/PlansSelectedViewBody.dart';
 import 'package:it_test/feature/Home/presentation/view/HomeView.dart';
 
-class Allproductview extends StatelessWidget {
-  const Allproductview({super.key});
+class PlansSelectedView extends StatelessWidget {
+  const PlansSelectedView({super.key});
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: _AppBar(context),
-      body: const Allproductviewbody(),
-     
+      body: const PlansSelectedViewBody(),
     );
   }
 

@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:it_test/core/utils/constant.dart';
 import 'package:it_test/core/utils/textstyles.dart';
-import 'package:it_test/feature/AllProducts/data/models/detailCardmodel.dart';
-import 'package:it_test/feature/AllProducts/data/models/titleCardmodel.dart';
+import 'package:it_test/feature/Plans%20Selected/data/models/detailCardmodel.dart';
 
 class CustomDetailFromCard extends StatelessWidget {
   const CustomDetailFromCard({super.key, required this.detailcardmodel});
