@@ -29,7 +29,7 @@ Each page has its own *model*, keeping the data layer clean and well-organized.
   - *BottomNavigationBar* for navigation
 - Data managed through *Cubit*
 - Designed for smooth and clean user experience
-[HomeView](https://github.com/mohamedatantawy/test_IT_legend_Flutter/blob/main/asset/image/Android%20Emulator%20-%20Pixel_8a_API_35_5554%202025-10-26%2012_00_55%20PM.png)
+![HomeView](https://github.com/mohamedatantawy/test_IT_legend_Flutter/blob/main/asset/image/Android%20Emulator%20-%20Pixel_8a_API_35_5554%202025-10-26%2012_00_55%20PM.png)
 ---
 
 ### 💼 2. Packages Page
@@ -41,7 +41,7 @@ Each page has its own *model*, keeping the data layer clean and well-organized.
   - Loading, updating, and selecting packages  
 - Allows the user to *choose the desired package*
 - Works efficiently both online and offline
-[Selection View](https://github.com/mohamedatantawy/test_IT_legend_Flutter/blob/main/asset/image/Android%20Emulator%20-%20Pixel_8a_API_35_5554%202025-10-26%2012_01_53%20PM.png)
+![Selection View](https://github.com/mohamedatantawy/test_IT_legend_Flutter/blob/main/asset/image/Android%20Emulator%20-%20Pixel_8a_API_35_5554%202025-10-26%2012_01_53%20PM.png)
 ---
 
 ### 🏘 3. Filter Page
@@ -57,7 +57,7 @@ Each page has its own *model*, keeping the data layer clean and well-organized.
 - Stores *categories and filter data* in *SQLite*
 - Each filter update reflects instantly in the UI
 - Structured and optimized for scalability
-[Filter View](https://github.com/mohamedatantawy/test_IT_legend_Flutter/blob/main/asset/image/Android%20Emulator%20-%20Pixel_8a_API_35_5554%202025-10-26%2012_01_21%20PM.png)
+![Filter View](https://github.com/mohamedatantawy/test_IT_legend_Flutter/blob/main/asset/image/Android%20Emulator%20-%20Pixel_8a_API_35_5554%202025-10-26%2012_01_21%20PM.png)
 ---
 ---
 
