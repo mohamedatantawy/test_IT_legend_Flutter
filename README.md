@@ -81,10 +81,4 @@ This separation ensures a *clean and maintainable data structure* throughout the
 
 ---
 
-## ⚙ Installation & Setup
 
-To run this project locally:
-
-```bash
-# Clone the repository
-git clone https://github.com/username/flutter-clean-mvvm-app.git
