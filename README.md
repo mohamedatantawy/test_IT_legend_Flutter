@@ -1,6 +1,6 @@
-# 🚀 Flutter App – Clean Architecture (MVVM)
+# Flutter App – Clean Architecture (MVVM)
 
-## 📖 Overview
+##  Overview
 This Flutter application consists of *three main pages, each implementing a specific feature and following **Clean Code principles* and the *MVVM architecture pattern*.  
 The app is designed with *modularity, **scalability, and **maintainability* in mind — separating the logic, data, and UI layers clearly.  
 
@@ -9,7 +9,7 @@ Each page has its own *model*, keeping the data layer clean and well-organized.
 
 ---
 
-## 🧠 Features
+##  Features
 -  Built using *MVVM architecture (Model - View - ViewModel)*
 -  Managed using *Cubit*
 -  Data stored locally using *SQLite*
@@ -17,9 +17,9 @@ Each page has its own *model*, keeping the data layer clean and well-organized.
 
 ---
 
-## 🏠 Pages Overview
+##  Pages Overview
 
-### 🏡 1. Home Page
+###  1. Home Page
 - Built using *CustomScrollView* for flexible scrolling
 - Contains:
   - Custom *AppBar*
@@ -32,7 +32,7 @@ Each page has its own *model*, keeping the data layer clean and well-organized.
 ![HomeView](https://github.com/mohamedatantawy/test_IT_legend_Flutter/blob/main/asset/image/Android%20Emulator%20-%20Pixel_8a_API_35_5554%202025-10-26%2012_00_55%20PM.png)
 ---
 
-### 💼 2. Packages Page
+###  2. Packages Page
 - Focuses on managing and displaying *subscription packages (الباقات)*
 - Uses *SQLite* to:
   - Store and retrieve packages locally  
@@ -47,12 +47,12 @@ Each page has its own *model*, keeping the data layer clean and well-organized.
 ### 🏘 3. Filter Page
 - Provides *product filtering features* based on user preferences
 - Filters include:
-  - 📍 *Location*
-  - 🏷 *Product Type*
-  - 🏠 *Number of Rooms*
-  - 💰 *Price Range*
-  - 💳 *Payment Method*
-  - 🏡 *Property Condition*
+  -  *Location*
+  -  *Product Type*
+  -  *Number of Rooms*
+  -  *Price Range*
+  -  *Payment Method*
+  -  *Property Condition*
 - Uses *Cubit* for handling filter state and logic
 - Stores *categories and filter data* in *SQLite*
 - Each filter update reflects instantly in the UI
@@ -61,7 +61,7 @@ Each page has its own *model*, keeping the data layer clean and well-organized.
 ---
 ---
 
-## 🧩 Models
+##  Models
 Each of the three main pages has its own model:
 - HomeModel → Manages categories, subcategories, and grid data  
 - PackageModel → Handles package information and selection state  
@@ -71,7 +71,7 @@ This separation ensures a *clean and maintainable data structure* throughout the
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 - *Flutter* (Dart)
 - *Cubit* – State Management
 - *SQLite* – Local Data Storage
